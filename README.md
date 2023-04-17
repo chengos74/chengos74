@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript / Symfony / Php**
 
 - 📫 How to reach me **chengkoeng@gmail.com**
 
